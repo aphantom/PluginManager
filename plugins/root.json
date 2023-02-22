@@ -1,14 +1,14 @@
 {
     "plugins": [
         {
-            "name": "FloatConvert",
+            "name": "FloatConvert11111",
             "author": "mrexodia",
             "container": "https://github.com/x64dbg/PluginManager/raw/master/plugins/FloatConvert.json"
         }
     ],
     "authors": [
         {
-            "name": "mrexodia"
+            "name": "mrexodia11111"
         }
     ]
 }
