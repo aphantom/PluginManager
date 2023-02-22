@@ -1,7 +1,7 @@
 {
     "meta": {
         "name": "FloatConvert",
-        "author": "mrexodia",
+        "author": "mrexodia1",
         "description": "Command to convert floating point values to hex and vice versa."
     },
     "versions": [
