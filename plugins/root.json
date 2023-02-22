@@ -11,17 +11,4 @@
             "name": "mrexodia"
         }
     ]
-    
-    "plugins": [
-        {
-            "name": "ScyllaHide",
-            "author": "Aguila & cypher",
-            "container": "https://github.com/x64dbg/PluginManager/raw/master/plugins/FloatConvert.json"
-        }
-    ],
-    "authors": [
-        {
-            "name": "Aguila & cypher"
-        }
-    ]
 }
