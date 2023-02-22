@@ -1,14 +1,27 @@
 {
     "plugins": [
         {
-            "name": "FloatConvert11111",
+            "name": "FloatConvert",
             "author": "mrexodia",
             "container": "https://github.com/x64dbg/PluginManager/raw/master/plugins/FloatConvert.json"
         }
     ],
     "authors": [
         {
-            "name": "mrexodia11111"
+            "name": "mrexodia"
+        }
+    ]
+    
+    "plugins": [
+        {
+            "name": "ScyllaHide",
+            "author": "Aguila & cypher",
+            "container": "https://github.com/x64dbg/PluginManager/raw/master/plugins/FloatConvert.json"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Aguila & cypher"
         }
     ]
 }
